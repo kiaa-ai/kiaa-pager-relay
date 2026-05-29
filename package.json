@@ -1,0 +1,13 @@
+{
+  "name": "kiaa-pager-relay",
+  "version": "1.0.0",
+  "description": "Relay HTTP/long-poll do KIAA Pager (relogio Amazfit Balance 2 -> PC).",
+  "main": "relay.js",
+  "scripts": {
+    "start": "node relay.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "ISC"
+}
